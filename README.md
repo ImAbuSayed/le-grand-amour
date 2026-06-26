@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-grand-amour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Le Grand Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-grand-amour/) |
+| **Get License** | [Commercial Licensing for Le Grand Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-grand-amour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit de Paris, ton parfum me suit, c'est la folie
+> Baby you're a star, sous les lumières de la ville, tu brilles
+> Je perds le contrôle quand tu me regardes comme ça
+> Viens plus près, my love, ne me lâche pas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
